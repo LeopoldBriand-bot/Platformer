@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="70" tileheight="70" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="grassHillRight2" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHillRight2.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="2" name="grassLeft" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassLeft.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="3" name="grassMid" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassMid.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="4" name="grassRight" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassRight.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="5" name="grass" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grass.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="6" name="grassCenter" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassCenter.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="7" name="grassCenter_rounded" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassCenter_rounded.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="8" name="grassCliffLeft" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassCliffLeft.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="9" name="grassCliffLeftAlt" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassCliffLeftAlt.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="10" name="grassCliffRight" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassCliffRight.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="11" name="grassCliffRightAlt" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassCliffRightAlt.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="12" name="grassHalf" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHalf.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="13" name="grassHalfLeft" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHalfLeft.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="14" name="grassHalfMid" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHalfMid.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="15" name="grassHalfRight" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHalfRight.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="16" name="grassHillLeft" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHillLeft.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="17" name="grassHillLeft2" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHillLeft2.png" width="70" height="70"/>
+ </tileset>
+ <tileset firstgid="18" name="grassHillRight" tilewidth="70" tileheight="70" tilecount="1" columns="1">
+  <image source="Tiles/grassHillRight.png" width="70" height="70"/>
+ </tileset>
+ <layer id="1" name="Calque de Tuiles 1" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAM8I+qo6o6AF5gAIg=
+  </data>
+ </layer>
+ <layer id="2" name="Calque de Tuiles 2" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh8gBsJD2V15AAAbdgApg==
+  </data>
+ </layer>
+ <layer id="3" name="Calque de Tuiles 3" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOsOPAo+qoqw4AGisBew==
+  </data>
+ </layer>
+</map>
